@@ -1,4 +1,4 @@
-# Hello There, Burhan here 👍
+# Hi There, Burhan here 👍
 
 
 [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
