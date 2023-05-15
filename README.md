@@ -6,7 +6,7 @@
 [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<h1 align="center">Hi 👋, I'm Burhan</h1>
+<h1 align="center"> 👋, Full Stack Developer</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yucel1993&label=Profile%20views&color=0e75b6&style=flat" alt="yucel1993" /> </p>
