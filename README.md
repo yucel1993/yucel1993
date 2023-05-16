@@ -8,7 +8,7 @@
 
 <h1 align="center"> 👋, Full Stack Developer</h1>
 <h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.”
-Confucius, Chinese teacher and philosopher. Lived 551-479 BC.</h3>
+Confucius</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yucel1993&label=Profile%20views&color=0e75b6&style=flat" alt="yucel1993" /> </p>
 
