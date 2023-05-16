@@ -31,8 +31,7 @@ Confucius</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucel1993&show_icons=true&theme=transparent)
 
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yucel1993&show_icons=true&locale=en" alt="yucel1993" /></p> -->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yucel1993&" alt="yucel1993" /></p>
 
