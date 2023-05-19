@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, Burhan here 👍</h1>
 
-
+<body align='center'>
 
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
@@ -94,5 +94,5 @@ Confucius</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yucel1993&" alt="yucel1993" /></p>
 
 
-
+</body>
 
