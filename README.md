@@ -1,3 +1,57 @@
+<p align="center">
+I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+</p>
+
+##
+<br>
+
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+
+
+<br>
+
+
+
+- 🔭 I’m currently studying on **becoming a frontend developer**.
+
+- 🏫I'm currently studying Computer Science at Cavendish University.
+
+- 🎗️ I'm currently taking Full Stack Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
+
+- 🌱 I’m currently learning **HTML-CSS and JS**.
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!.
+
+- 📫 How to reach me: **alidrl26@gmail.com**.
+
+- 💬 Ask me about **HTML and CSS**.
+
+- 🤝 I’m looking for help in learning about **Accessible Websites**.
+
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
+
+
+<br>
+<br>
+
+## 🏆 Goals
+- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 🏁 Finishing the Course 'how to become Frontend Developer'.
+- 🚀 Gain experience in developing Web site application using.
+- 📖 Learn the of **HTML-CSS and JS** programming languages
+- 📱 Build a simple web applications.
+
+
+#
+
+<br>
+
+
+
+
 # Hi There, Burhan here 👍
 
 
