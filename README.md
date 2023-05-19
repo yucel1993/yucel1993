@@ -1,3 +1,7 @@
+# Hi There, Burhan here 👍
+
+
+
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
@@ -16,7 +20,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🔭 I’m currently studying on **becoming a frontend developer**.
 
-- 🏫I'm currently studying Computer Science at Cavendish University.
+- 🏫I'm currently studying Web Technologies at Clarusway .
 
 - 🎗️ I'm currently taking Full Stack Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
 
@@ -52,7 +56,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 
 
-# Hi There, Burhan here 👍
+
 
 
 [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
