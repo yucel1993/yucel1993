@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, Burhan here 👍✔</h1>
+<h1 align="center">Hi There, Burhan here 👍</h1>
 
 <body align='center'>
 
@@ -18,19 +18,19 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 
 
-- 🔭 I’m currently studying on **becoming a frontend developer**.
+- 🔭 I’m currently studying on **becoming a full stack developer**.
 
 - 🏫I'm currently studying Web Technologies at Clarusway .
 
 - 🎗️ I'm currently taking Full Stack Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
 
-- 🌱 I’m currently learning **HTML-CSS and JS**.
+<!-- - 🌱 I’m currently learning **HTML-CSS and JS**. -->
 
 <!-- - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!. -->
 
 - 📫 How to reach me: **alpagut1993@gmail.com**.
 
-- 💬 Ask me about **HTML and CSS**.
+<!-- - 💬 Ask me about **HTML and CSS**. -->
 
 - 🤝 I’m looking for help in learning about **Accessible Websites**.
 
