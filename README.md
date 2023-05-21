@@ -45,8 +45,8 @@ I'm a software engineering student with a passion for web programming. My goal i
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 - 🏁 Finishing the Course 'how to become Frontend Developer'.
 - 🚀 Gain experience in developing Web site application using.
-<!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
 - 📱 Build a simple web applications.
+  <!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
 
 
 #
