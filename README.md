@@ -68,7 +68,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 <h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.”
 Confucius</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yucel1993&label=Profile%20views&color=0e75b6&style=flat" alt="yucel1993" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yucel1993&label=Profile%20views&color=0e75b6&style=flat" alt="yucel1993" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yucel1993" alt="yucel1993" /></a> </p>
 
