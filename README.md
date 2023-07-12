@@ -18,7 +18,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 
 
-   <--  - 🔭 I’m currently studying on **becoming a full stack developer**. -->
+   <!--  - 🔭 I’m currently studying on **becoming a full stack developer**. -->
 
 - 🏫I'm currently studying Web Technologies at Clarusway .
 
