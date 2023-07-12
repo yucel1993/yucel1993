@@ -41,10 +41,15 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 <br>
 
 ## 🏆 Goals
+
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+- 
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
 - 🏁 Finishing the Course 'how to become Experienced Developer'.
+
 - 🚀 Gain experience in developing Web site application using.
+
 - 📱 Build a simple web applications.
   <!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
 
