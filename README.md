@@ -22,7 +22,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 - 🏫I'm currently studying Web Technologies at Clarusway .
 
-- 🎗️ I'm currently taking Full Stack Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
+- 🎗️ I'm currently taking Software Enginnering Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
 
 <!-- - 🌱 I’m currently learning **HTML-CSS and JS**. -->
 
@@ -43,7 +43,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 ## 🏆 Goals
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
-- 🏁 Finishing the Course 'how to become Frontend Developer'.
+- 🏁 Finishing the Course 'how to become Experienced Developer'.
 - 🚀 Gain experience in developing Web site application using.
 - 📱 Build a simple web applications.
   <!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
