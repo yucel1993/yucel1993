@@ -45,7 +45,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
  
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 
-- 🏁 Finishing the Course 'how to become Experienced Developer'.
+- 🏁 Finishing the Course 'how to become Full/MERN Stack Developer'.
 
 - 🚀 Gain experience in developing Web site application using.
 
