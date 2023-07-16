@@ -49,7 +49,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 - 🚀 Gain experience in developing Web site application using.
 
-- 📱 Build a simple web applications.
+- 📱 Build a simple web applications and softwares.
   <!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
 
 
