@@ -104,32 +104,7 @@ Confucius</h3>
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://vole.netlify.app/)| React, NextJs, Tailwind, React-card-carousel | [Vole Football Player Cards Project](https://github.com/Selman-S/Vole)
-[Live Link](https://selman-reactjs.vercel.app/)| Redux Toolkit, TypeScript, Tailwind, Redux-Thunk |[UPayments Redux Typescript](https://github.com/Selman-S/Upayments-redux)
-[Live Link](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |[CrewIn Blog App](https://github.com/Selman-S/Crewin-Blog)
-[Live Link](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |[Firebase Contact App](https://github.com/Selman-S/Firebase-Contact-App)
-|[Live Link](https://selman-weather-app.netlify.app/)| DOM, Async Await, Axios, Events| [Weather App Master](https://github.com/Selman-S/weather-app-master)
-|[Live Link](https://selman-s.github.io/Bootcamp-Courses-Project-with-Bootstrap/) |  HTML, CSS Frameworks, Bootstrap-5 |[Bootcamp Courses Project with Bootstrap](https://github.com/Selman-S/Bootcamp-Courses-Project-with-Bootstrap)
-|[Live Link](https://selman-task-tracker-react.netlify.app/) | React, useState, useEffect, localestorrage | [Task Tracker React Project](https://github.com/Selman-S/Task-tracker-React-project)
-|[Live Link](https://selman-react-language-cards.netlify.app/)|React, React DOM, Components, Props|[Language Cards React](https://github.com/Selman-S/Language-Cards-React)
-|[Live Link](https://selman-followers-github-react.netlify.app/)| React, useState, useEffect, axios, async await, Github User API, react-router-dom, react-bootsrap, styled-components|[My Followers React](https://github.com/Selman-S/My-Followers-React)
-|[Live Link](https://selman-s.github.io/First-React-Project-Tour/) | React, React DOM, Components, Props |[Tour Project(This is my first react Project :) ](https://github.com/Selman-S/First-React-Project-Tour/)
-|[Live Link](https://selman-random-user-react.netlify.app/)| useState, useEffect, axios, async await, REST API|[Random-User-React](https://github.com/Selman-S/Random-User-React)
-|[Live Link](https://selman-weather-app-react.netlify.app/)| React, useState, useEffect, axios, async await, API|[Weather App with React](https://github.com/Selman-S/Weather-App-with-React)
-|[Live Link](https://selman-github-search-app.netlify.app/)  | JS DOM, Github API, Async Await, Axios, Events | [Github User Search with API](https://github.com/Selman-S/Github-User-Search-with-API) 
-|[Live Link](https://selman-s.github.io/Portfolio-with-SASS/)|SASS/SCSS, HTML|[Portfolio with SASS](https://github.com/Selman-S/Portfolio-with-SASS)
-|[Live Link](https://selman-s.github.io/Ecommerce-product-page-Checkout/)| DOM, Iterator, Callback functions, String-array functions, Events|[Ecommerce-product-page-Checkout](https://github.com/Selman-S/Ecommerce-product-page-Checkout)
-|[Live Link]( https://selman-s.github.io/Guess-Number-Game/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners |[Guess Number Game](https://github.com/Selman-S/Guess-Number-Game)
-|[Live Link](https://selman-react-axios-addtutorial.netlify.app/)| React, React DOM, useState, useEffect, axios, async await, API, react-bootsrap|[CRUD Axios API React App](https://github.com/Selman-S/CRUD-Axios-API-React-App)
-|[Live Link](https://selman-s.github.io/Calculator-study/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners | [calculator App](https://github.com/Selman-S/Calculator-study)
-|[Live Link](https://selman-search-flag-app.netlify.app/)|  DOM, Async, Await and Fetch.Bootstrap | [Search Flags with API](https://github.com/Selman-S/Search-Flags-with-API)
-|[Live Link](https://selman-profile-card.netlify.app/)|HTML, CSS Frameworks|[Profile Card Component](https://github.com/Selman-S/Profile-Card-Component)
-|[Live Link](https://selman-s.github.io/Shopping-Card-JS/)|JS DOM|[Shopping Card JS](https://github.com/Selman-S/Shopping-Card-JS)
-|[Live Link](https://selman-s.github.io/JS-Kredi-Hesapla/)|JS DOM, Bootstrap|[JS Kredi Hesapla](https://github.com/Selman-S/JS-Kredi-Hesapla)
-|[Live Link](https://selman-s.github.io/Media-Query-Study/)|CSS Media queries|[Media Query Study](https://github.com/Selman-S/Media-Query-Study)
-|[Live Link](https://selman-s.github.io/Website-Page-Design-with-SASS/)|CSS SASS/SCSS|[Website Page Design with SASS](https://github.com/Selman-S/Sass-Scss-Layout)
-|[Live Link](https://selman-s.github.io/Interactive-Rating-Component/)|JS DOM|[Interactive Rating Component](https://github.com/Selman-S/Interactive-Rating-Component)
-|[Live Link](https://selman-s.github.io/Css-Tea-Cup-Study/)|CSS|[Css Tea Cup Study](https://github.com/Selman-S/Css-Tea-Cup-Study)
+[Live Link](https://fitnessappv2.netlify.app/)|React Sass | [Vole Football Player Cards Project](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
 
 
 
