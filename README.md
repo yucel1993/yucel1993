@@ -104,7 +104,7 @@ Confucius</h3>
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://fitnessappv2.netlify.app/)|React Sass | [Vole Football Player Cards Project](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
+[Live Link](https://fitnessappv2.netlify.app/)|React Sass | [Fitness Web Site](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
 
 
 
