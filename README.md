@@ -105,6 +105,7 @@ Confucius</h3>
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://fitnessappv2.netlify.app/)|React Sass | [Fitness Web Site](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
+[Live Link](https://movieappv2.netlify.app/)|React Tailwind Firebase| [Fitness Web Site](https://github.com/yucel1993/React-Projects-Advanced/tree/master/MovieApp)
 
 
 
