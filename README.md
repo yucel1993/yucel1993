@@ -3,7 +3,7 @@
 <body align='center'>
 
 <p align="center">
-I'm a software engineer with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+I'm a software engineer with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
 </p>
 
 ##
@@ -18,43 +18,23 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 
 
-   <!--  - 🔭 I’m currently studying on **becoming a full stack developer**. -->
 
-- 🏫I'm currently studying Software Technologies at Clarusway .
 
-- 🎗️ I'm currently taking Software Enginnering Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
 
-<!-- - 🌱 I’m currently learning **HTML-CSS and JS**. -->
 
-<!-- - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!. -->
 
-- 📫 How to reach me: **alpagut1993@gmail.com**.
 
-<!-- - 💬 Ask me about **HTML and CSS**. -->
 
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
 
 
 <br>
 <br>
 <br>
 
-## 🏆 Goals
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
- 
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
-
-- 🏁 Finishing the Course 'how to become Full/MERN Stack Developer'.
-
-- 🚀 Gain experience in developing Web site application using.
-
-- 📱 Build a simple web applications and softwares.
-  <!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
 
 
-#
+
 
 <br>
 
