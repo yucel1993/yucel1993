@@ -6,7 +6,7 @@
 I'm a software engineer with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
 </p>
 
-##
+
 
 
 
