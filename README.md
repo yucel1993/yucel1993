@@ -41,7 +41,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<h1 align="center"> 👋, Full Stack Developer</h1>
+<h1 align="center"> 👋, Full/MERN Stack Developer</h1>
 <h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.”
 Confucius</h3>
 
