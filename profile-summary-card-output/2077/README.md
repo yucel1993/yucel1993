@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
