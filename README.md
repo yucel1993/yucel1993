@@ -1,4 +1,4 @@
-[![Typing SVG](https://burhanyucel.netlify.app?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%99%82+Hi%2C+Welcome+to+my+Github+Profile;%F0%9F%91%8C+You+can+check+my+Projects;%F0%9F%9A%80+or+You+can+go+my+personel+Website;%F0%9F%98%8E++https%3A%2F%2Fburhanyucel.netlify.app+)](https://git.io/typing-svg)
+<a href="https://burhanyucel.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%99%82+Hi%2C+Welcome+to+my+Github+Profile;%F0%9F%91%8C+You+can+check+my+Projects;%F0%9F%9A%80+or+You+can+go+my+personel+Website;%F0%9F%98%8E++https%3A%2F%2Fburhanyucel.netlify.app+" alt="Typing SVG" /></a>
 
 
 <h1 align="center">Hi There, Burhan here 👍</h1>
