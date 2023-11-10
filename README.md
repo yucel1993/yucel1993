@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%99%82+Hi%2C+Welcome+to+my+Github+Profile;%F0%9F%91%8C+You+can+check+my+Projects;%F0%9F%9A%80+or+You+can+go+my+personel+Website" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%99%82+Hi%2C+Welcome+to+my+Github+Profile;%F0%9F%91%8C+You+can+check+my+Projects;%F0%9F%9A%80+or+You+can+go+my+personel+Website;%F0%9F%98%8E++https%3A%2F%2Fburhanyucel.netlify.app+)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi There, Burhan here 👍</h1>
 
