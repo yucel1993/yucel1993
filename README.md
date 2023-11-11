@@ -45,8 +45,9 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 
 <h1 align="center"> 👋, Next.js - MERN Stack Developer</h1>
-<h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.”
-Confucius</h3>
+
+!--<h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.”
+Confucius</h3> --!
 
   
   
