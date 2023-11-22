@@ -90,7 +90,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 [Live Link](https://react-tailwind12.netlify.app/)|React Tailwind| [Landing Page 1 ](https://github.com/yucel1993/React-Projects/tree/master/onePage/tailwind)
 [Live Link](https://react-styled12.netlify.app/)|React Styled Components| [Landing Page 2 ](https://github.com/yucel1993/React-Projects/tree/master/onePage/StyledComponent)
 [Live Link](https://filmpirebeta.netlify.app/)|React Redux ContextAPI AlanAI Firebase| [Filmpire](https://github.com/yucel1993/React-Projects-Advanced/tree/master/filmpire)
-[Live Link](https://mellow-duckanoo-eea14a.netlify.app/)|MERN MUI Redux| [Voyager-BlogApp]
+[Live Link](https://voyagerv2.netlify.app/)|MERN MUI Redux| [Voyager-BlogApp]
 [Live Link](https://stack-overflow-git-master-yucel1993.vercel.app/)|Next.js Clerk Mongodb Webhook  |  [DevOverflow]
 
 
