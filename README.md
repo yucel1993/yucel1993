@@ -92,6 +92,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 [Live Link](https://filmpirebeta.netlify.app/)|React Redux ContextAPI AlanAI Firebase| [Filmpire](https://github.com/yucel1993/React-Projects-Advanced/tree/master/filmpire)
 [Live Link](https://voyagerv2.netlify.app/)|MERN MUI Redux| [Voyager-BlogApp]
 [Live Link](https://stack-overflow-git-master-yucel1993.vercel.app/)|Next.js Clerk Mongodb Webhook  |  [DevOverflow]
+[Live Link](https://threadclone-delta.vercel.app/)|Next.js Clerk Mongodb Webhook Zod Shadcn  |  [ThreadClone]
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yucel1993&" alt="yucel1993" /></p> 
