@@ -93,7 +93,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 [Live Link](https://voyagerv2.netlify.app/)|MERN MUI Redux| [Voyager-BlogApp]
 [Live Link](https://stack-overflow-git-master-yucel1993.vercel.app/)|Next.js Tailwind Clerk Mongodb Webhook  |  [DevOverflow]
 [Live Link](https://threadclone-delta.vercel.app/)|Next.js Tailwind Clerk Mongodb Webhook Zod Shadcn  |  [ThreadClone]
-[Live Link](https://evently-92tivp96x-yucel1993.vercel.app/)| Next.js Clerk Stripe Tailwind | [Evently](https://github.com/yucel1993/React-Projects-Advanced/tree/master/evently)
+[Live Link](https://evently-chi.vercel.app/)| Next.js Clerk Stripe Tailwind | [Evently](https://github.com/yucel1993/React-Projects-Advanced/tree/master/evently)
 
 
 
