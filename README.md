@@ -84,7 +84,6 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 [Live Link](https://movieappv2.netlify.app/)|React Tailwind Firebase| [Movie App](https://github.com/yucel1993/React-Projects-Advanced/tree/master/MovieApp)
 [Live Link](https://shoopingappv2.netlify.app/)|React Tailwind Redux-Toolkit| [Shooping App](https://github.com/yucel1993/React-Projects-Advanced/tree/master/ShoopingApp)
 [Live Link](https://stockappclone.vercel.app/)|React MUI Tremor Redux-Toolkit| [Stock App](https://github.com/yucel1993/React-Projects-Advanced/tree/master/stockAppClone)
-
 [Live Link](https://netflixappv1-fvrywnywf-yucel1993.vercel.app/)|NextJs Tailwind FireBase| [Netflix Clone ](https://github.com/yucel1993/NextJs-Projects/tree/master/Netflixapp)
 [Live Link](https://carapp-git-master-yucel1993.vercel.app/)|NextJs Tailwind Clerk| [CarBook App ](https://github.com/yucel1993/NextJs-Projects/tree/master/carclone)
 [Live Link](https://react-tailwind12.netlify.app/)|React Tailwind| [Landing Page 1 ](https://github.com/yucel1993/React-Projects/tree/master/onePage/tailwind)
