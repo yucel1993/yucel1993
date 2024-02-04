@@ -5,7 +5,7 @@
 
 <body align='center'>
 
-<p align="center">
+
 I am a dedicated software engineer specializing in both web programming and AWS & DevOps Engineering. My primary objective is to design and develop scalable, maintainable, and user-friendly web applications, providing a seamless user experience. With a strong foundation in various web technologies and frameworks, I ensure the creation of robust and efficient solutions.
 
 In the realm of AWS & DevOps Engineering, I leverage cloud services such as AWS Lambda, Amazon S3, and Amazon RDS to build and deploy scalable applications. My expertise extends to implementing containerization and orchestration through tools like Docker and Kubernetes, streamlining deployment processes and enhancing scalability.
