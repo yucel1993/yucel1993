@@ -50,7 +50,7 @@ By seamlessly combining web programming with AWS & DevOps Engineering, I aim to 
 [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<h1 align="center"> 👋, Next.js - MERN Stack Developer</h1>
+<h1 align="center"> 👋, AWS & DevOps and MERN & Next.js Developer</h1>
 
 <!-- <h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.” Confucius</h3> -->
 
