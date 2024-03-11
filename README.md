@@ -102,7 +102,7 @@ By seamlessly combining web programming with AWS & DevOps Engineering, I aim to 
 [Live Link](https://questionary-lovat.vercel.app/)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn AI | [MediumBeta](https://github.com/yucel1993/questionary)
 [Live Link](https://messengerapp-kohl.vercel.app/)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn AI | [WatsupClone](https://github.com/yucel1993/messengerapp)
 [Live Link](https://ecommerce-v1-omega.vercel.app)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn  | [EcommerceOpenModel](https://github.com/yucel1993/ecommerce_v1)
-[Live Link](https://ecommerce-admin-gray-seven.vercel.app)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn  | [EcommerceAppAdminModel](https://github.com/yucel1993/ecommerce_v1)
+[Live Link](https://ecommerce-admin-gray-seven.vercel.app)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn  | [EcommerceAppAdminModel](https://github.com/yucel1993/ecommerce_admin)
 
 
 
