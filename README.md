@@ -106,7 +106,12 @@ By seamlessly combining web programming with AWS & DevOps Engineering, I aim to 
 ## My projects-AWS-Cloud-DevOps
 Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------
-React Sass | [Fitness Web Site](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
+Automation | [Terraform VPC NAT-Subnet](https://github.com/yucel1993/Terraform-VPC-NAT-Subnet)
+Automation | [Terraform Docker ](https://github.com/yucel1993/terraform-aws-docker-instance)
+Microservice 2 Tier  | [K8 SQL Flask ](https://github.com/yucel1993/k8s-docker-sql-python)
+Microservice 2 Tier | [K8 MongoDB Node Template](https://github.com/yucel1993/3-Node-mongo-kubernetes-deployment)
+Automation 3 Tier | [PERN / MERN Ansible + Terraform](https://github.com/yucel1993/3-Node-mongo-kubernetes-deployment)
+CI/CD with Jenkins for Tomcat server | [Tomcat + Maven + Jenkins + CI/CD](https://github.com/yucel1993/java-tomcat-sample-main)
 
 
 
