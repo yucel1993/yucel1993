@@ -50,7 +50,7 @@ By seamlessly combining web programming with AWS & DevOps Engineering, I aim to 
 [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yucel1993/yucel1993/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<h1 align="center"> 👋, AWS & DevOps and MERN & Next.js Developer</h1>
+<h1 align="center"> 👋, AWS & DevOps and MERN & Java Developer</h1>
 
 <!-- <h3 align="center">“Our greatest glory is not in never failing, but in rising every time we fail.” Confucius</h3> -->
 
@@ -116,6 +116,12 @@ CI/CD with Jenkins for Tomcat server | [Tomcat + Maven + Jenkins + CI/CD](https:
 Jenkins Terraform ECS Automation with Dockerfile Task Defination | [Jenkins Terraform ECS Docker Nodejs](https://github.com/yucel1993/jenkins-pipeline-to-deploy-docker-images-on-ECR-to-ECS-cluster)
            
 
+## My projects-Java
+Libraries and Technologies I use     | Project Repo Link   
+:-------------------------|-------------------------
+Java SpringBoot Microservice Kubernetes(EKS + ECR) S3 Route 53 | [PetClinic](https://github.com/yucel1993/petclinic-microservices-with-db)
+
+           
 
 
 
