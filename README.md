@@ -84,7 +84,7 @@ By seamlessly combining web programming with AWS & DevOps Engineering, I aim to 
 
 
 
-## My projects-Full Stack-(MERN-Next.js)
+## Full Stack-(MERN-Next.js)
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://fitnessappv2.netlify.app/)|React Sass | [Fitness Web Site](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
