@@ -103,7 +103,7 @@ By seamlessly combining web programming with AWS & DevOps Engineering, I aim to 
 [Live Link](https://messengerapp-kohl.vercel.app/)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn AI | [WatsupClone](https://github.com/yucel1993/messengerapp)
 [Live Link](https://ecommerce-admin-gray-seven.vercel.app)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn  | [EcommerceAppAdminModel](https://github.com/yucel1993/ecommerce_admin)
 
-## My projects-AWS-Cloud-DevOps
+## AWS-Cloud-DevOps
 Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------
 Cloud(AWS) | [DevOps + Cloud](https://github.com/yucel1993/Total-DevOps)
@@ -116,7 +116,7 @@ CI/CD with Jenkins for Tomcat server | [Tomcat + Maven + Jenkins + CI/CD](https:
 Jenkins Terraform ECS Automation with Dockerfile Task Defination | [Jenkins Terraform ECS Docker Nodejs](https://github.com/yucel1993/jenkins-pipeline-to-deploy-docker-images-on-ECR-to-ECS-cluster)
            
 
-## My projects-Java
+## Java
 Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------
 Java SpringBoot Microservice Kubernetes(EKS + ECR) S3 Route 53 | [PetClinic](https://github.com/yucel1993/petclinic-microservices-with-db)
