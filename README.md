@@ -113,7 +113,7 @@ Microservice 2 Tier | [K8 MongoDB Node Template](https://github.com/yucel1993/3-
 Automation 3 Tier | [PERN / MERN Ansible + Terraform](https://github.com/yucel1993/3-Node-mongo-kubernetes-deployment)
 CI/CD with Jenkins for Tomcat server | [Tomcat + Maven + Jenkins + CI/CD](https://github.com/yucel1993/java-tomcat-sample-main)
 Jenkins Terraform ECS Automation with Dockerfile Task Defination | [Jenkins Terraform ECS Docker Nodejs](https://github.com/yucel1993/jenkins-pipeline-to-deploy-docker-images-on-ECR-to-ECS-cluster)
-Serverless  [ API Gateway  Lambda  DynamoDB  Typescript Python  Node ](https://github.com/yucel1993/14-Serverless).
+Serverless | [ API Gateway  Lambda  DynamoDB  Typescript Python  Node ](https://github.com/yucel1993/14-Serverless).
            
 
 ## Java
