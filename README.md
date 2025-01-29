@@ -11,13 +11,13 @@
 Hi, I'm Burhan, a passionate Web and Cloud Developer dedicated to building high-performance applications and optimizing platforms for businesses of all sizes. With expertise in web development, cloud solutions, and security consulting, I help businesses enhance their digital presence, streamline operations, and secure their platforms.
 
 🔹 Services I Provide:
-✅ Website Development for Businesses
-✅ SEO Analysis & Optimization
-✅ Application Development & Management
-✅ Cloud Services & Hosting Solutions
-✅ File Management & Data Security
-✅ Platform Performance Optimization
-✅ Application & Platform Security Consulting
+- ✅ Website Development for Businesses
+- ✅ SEO Analysis & Optimization
+- ✅ Application Development & Management
+- ✅ Cloud Services & Hosting Solutions
+- ✅ File Management & Data Security
+- ✅ Platform Performance Optimization
+- ✅ Application & Platform Security Consulting
 
 With a strong focus on scalability, performance, and security, I ensure that businesses not only go online but thrive in the digital space. Let’s connect and discuss how I can help you achieve your goals!
 
