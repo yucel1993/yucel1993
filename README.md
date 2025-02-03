@@ -128,13 +128,13 @@ Serverless | [ API Gateway  Lambda  DynamoDB  Typescript Python  Node ](https://
 ## Java
 Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------
-Java SpringBoot Microservice Kubernetes(EKS + ECR) S3 Route 53 | [PetClinic](https://github.com/yucel1993/petclinic-microservices-with-db)
-Java SpringBoot JPA MYSQL| [TodoBackend](https://github.com/yucel1993/TodoApp)
-Java SpringBoot JPA MySQL Lombok JWT S3 React | [Booking App_client_server](https://github.com/yucel1993/springboot-booking-app)
-Java SpringBoot Mongodb JWT Docker Opendoc | [RentaCarBackend](https://github.com/yucel1993/springrentacar)
-Java SpringBoot JPA MYSQL JWT | [LibraryManagementBackend](https://github.com/yucel1993/libraryManagement)
-Java SpringBoot JPA MYSQL JWT Stripe | [ShoopingAppBackend](https://github.com/yucel1993/Springboot-shoppingApp)
-Java SpringBoot JPA MYSQL Postgre Openfeign ConfigServer Apigateway EurekaClient RabbitMQ Zipkin | [Microservice](https://github.com/yucel1993/javaSpringBoot)
+SpringBoot Microservice Kubernetes(EKS + ECR) S3 Route 53 | [PetClinic](https://github.com/yucel1993/petclinic-microservices-with-db)
+SpringBoot JPA MYSQL| [TodoBackend](https://github.com/yucel1993/TodoApp)
+SpringBoot JPA MySQL Lombok JWT S3 React | [Booking App_client_server](https://github.com/yucel1993/springboot-booking-app)
+SpringBoot Mongodb JWT Docker Opendoc | [RentaCarBackend](https://github.com/yucel1993/springrentacar)
+SpringBoot JPA MYSQL JWT | [LibraryManagementBackend](https://github.com/yucel1993/libraryManagement)
+SpringBoot JPA MYSQL JWT Stripe | [ShoopingAppBackend](https://github.com/yucel1993/Springboot-shoppingApp)
+JPA MYSQL Postgre Openfeign ConfigServer Apigateway EurekaClient RabbitMQ Zipkin | [Microservice](https://github.com/yucel1993/javaSpringBoot)
 
            
 
