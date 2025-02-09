@@ -129,7 +129,7 @@ Serverless | [ API Gateway  Lambda  DynamoDB  Typescript Python  Node ](https://
 Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------
 SpringBoot Microservice Kubernetes(EKS + ECR) S3 Route 53 | [PetClinic](https://github.com/yucel1993/petclinic-microservices-with-db)
-SpringBoot JPA MYSQL| [TodoBackend](https://github.com/yucel1993/TodoApp)
+SpringBoot JPA MYSQL Helm Kubernetes Jenkins | [TodoBackend](https://github.com/yucel1993/TodoApp)
 SpringBoot JPA MySQL Lombok JWT S3 React | [Booking App_client_server](https://github.com/yucel1993/springboot-booking-app)
 SpringBoot Mongodb JWT Docker Opendoc | [RentaCarBackend](https://github.com/yucel1993/springrentacar)
 SpringBoot JPA MYSQL JWT | [LibraryManagementBackend](https://github.com/yucel1993/libraryManagement)
